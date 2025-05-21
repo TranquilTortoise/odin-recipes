@@ -9,18 +9,23 @@ text-align: center;
 }
 
 .container {
-    margin: 10px;
+    margin: 20%;
 }
 
 .title {
     text-decoration: underline;
 }
 
+ul {
+    list-style-type: none;
+}
+
 li {
     outline: 2px dotted purple;
+    width:300px;
 }
 
 li > img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
