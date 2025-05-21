@@ -6,3 +6,12 @@ background-color: rgb(221, 182, 219);
 font-family: 'Lucida Handwriting', 'sans-serif';
 outline: 2px dotted red;
 }
+
+.container {
+    margin: 10px;
+}
+
+.title {
+    text-align: center;
+    text-decoration: underline;
+}
