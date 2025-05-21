@@ -4,7 +4,8 @@ padding: 0;
 box-sizing: border-box;
 background-color: rgb(221, 182, 219);
 font-family: 'Lucida Handwriting', 'sans-serif';
-outline: 2px dotted red;
+text-align: center;
+/*outline: 2px dotted red; */
 }
 
 .container {
@@ -12,6 +13,9 @@ outline: 2px dotted red;
 }
 
 .title {
-    text-align: center;
     text-decoration: underline;
+}
+
+li {
+    outline: 2px dotted purple;
 }
