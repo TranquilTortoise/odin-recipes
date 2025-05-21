@@ -19,3 +19,8 @@ text-align: center;
 li {
     outline: 2px dotted purple;
 }
+
+li > img {
+    width: 100px;
+    height: 100px;
+}
