@@ -8,12 +8,12 @@ text-align: center;
 /*outline: 2px dotted red; */
 }
 
-.welcome {
+.title {
+    text-decoration: underline;
     margin: 20px;
 }
 
-.title {
-    text-decoration: underline;
+.welcome {
     margin: 20px;
 }
 
@@ -23,9 +23,17 @@ ul {
 
 li {
     outline: 2px dotted purple;
+    padding: 50px;
+    width: 250px;
+    margin-left: 35%;
 }
 
 li > img {
     width: 150px;
     height: 150px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30spx;
 }
