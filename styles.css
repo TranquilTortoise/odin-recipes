@@ -22,15 +22,19 @@ ul {
 }
 
 li {
-    outline: 2px dotted purple;
     padding: 50px;
     width: 250px;
-    margin-left: 35%;
+    margin-left: 300px;
+    border: solid black 20px;
 }
 
 li > img {
     width: 150px;
     height: 150px;
+}
+
+li, a {
+       background-color:rgb(117, 146, 136);
 }
 
 a {
